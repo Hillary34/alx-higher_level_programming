@@ -1,1 +1,1 @@
- to print 3 times a string stored in the variable str
+a code to print to print Welcome to Holberton School
