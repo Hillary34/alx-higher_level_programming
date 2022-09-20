@@ -1,1 +1,1 @@
- a Python script that prints exactly and that piece of art is useful
+ a script that compiles a Python script file
