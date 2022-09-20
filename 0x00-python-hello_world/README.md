@@ -1,1 +1,1 @@
-a function in C that checks if a singly linked list has a cycle in it
+ a Python script that prints exactly and that piece of art is useful
