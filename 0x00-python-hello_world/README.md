@@ -1,1 +1,1 @@
-to print a number stored inside a variable
+to print a float stored in a variable mumber
