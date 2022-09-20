@@ -1,1 +1,1 @@
-to print a float stored in a variable mumber
+ to print 3 times a string stored in the variable str
