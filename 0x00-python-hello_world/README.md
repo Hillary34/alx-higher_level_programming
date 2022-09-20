@@ -1,1 +1,1 @@
- to print object-oriented programming with Python
+to print The Zen of Python
