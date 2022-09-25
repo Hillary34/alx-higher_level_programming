@@ -1,1 +1,1 @@
- function that computes a to the power of b and return the value
+a function in C that inserts a number into a sorted singly linked list
